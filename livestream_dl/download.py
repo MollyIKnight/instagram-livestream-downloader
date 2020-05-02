@@ -250,10 +250,10 @@ def run():
 
     # don't use default device profile
     custom_device = {
-        'phone_manufacturer': 'samsung',
-        'phone_model': 'hero2lte',
-        'phone_device': 'SM-G935F',
-        'android_release': '6.0.1',
+        'phone_manufacturer': 'Apple',
+        'phone_model': 'iPhoneSE',
+        'phone_device': 'SE',
+        'android_release': '12.4.1',
         'android_version': 23,
         'phone_dpi': '640dpi',
         'phone_resolution': '1440x2560',
